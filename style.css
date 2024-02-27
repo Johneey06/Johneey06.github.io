@@ -1,0 +1,109 @@
+html {
+    color-scheme: dark;
+}
+body {
+    color: aliceblue;
+}
+
+header {
+    border-radius: 20px;
+    border-color: aliceblue;
+    border-style: solid;
+    text-align: center;
+    background-color: gray;
+    width: 930px;
+    margin: auto;
+}
+
+main {
+    margin: auto;
+    max-width: 1120px;
+}
+
+img {
+    width: 48px;
+    height: 48px;
+}
+
+#selfie > img {
+    height: 170px;
+    width: 200px;
+}
+
+#selfie {
+    width: 370px;
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    border-style: solid;
+    background-color: gray;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+#bio {
+    width: 520px;
+    height: 175px;
+    display: inline-block;
+    margin: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 100px;
+    padding: 5px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    border-style: solid;
+    text-align: left;
+    background-color: gray;
+    position: absolute;
+    color:black;
+    text-align: center;
+}
+
+.content {
+    width: 920px;
+    display: block;
+    margin: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    border-style: solid;
+    text-align: center;
+    background-color: gray;
+}
+
+div {
+    width: 100px;
+    display: inline-block;
+    margin: 40px;
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+    background-color: white;
+    color: black;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+p {
+
+}
+
+
+
